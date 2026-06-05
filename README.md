@@ -21,6 +21,8 @@ CardioScan puts AI-powered cardiac screening in the hands of community health wo
 
 ## Demo
 
+![CardioScan Website](docs/demo.png)
+
 **Live scan flow:**
 1. Plug Arduino Nano into USB
 2. Open website in Chrome
